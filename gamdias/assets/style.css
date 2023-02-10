@@ -1,0 +1,44 @@
+#body{
+    padding: 0;
+    margin: 0;
+}
+.bg-dark {
+    background-color: #000000!important;
+}
+#img1 {
+    vertical-align: middle;
+    border-style: none;
+    width: 150px;
+    height: 40px;
+}
+#navbar-1{
+    margin-left: 0px;
+    padding-top: 15px;
+}
+.nav-link{
+    color: #fdfeff;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+    opacity: 90%;
+}
+#icon-person{
+    color: aliceblue;
+}
+.text67{
+    color: #EADF87;
+    
+}
+ul{
+    list-style: none;
+}
+ul a{
+    text-decoration: none;
+    color: gray;
+}
+.portfolio{
+    background-color: #000000;
+    max-width: 100%;
+    height: auto;
+}
+
